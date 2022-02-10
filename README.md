@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac <img height="40" src="https://emoji.gg/assets/emoji/5887-animalcrossdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Isaac <a href="https://emoji.gg/emoji/4297-pepe-hacker"><img src="https://emoji.gg/assets/emoji/4297-pepe-hacker.gif" width="64px" height="64px" alt="pepe_hacker"></a></h1>
 
 ![](https://komarev.com/ghpvc/?username=isaacpaloug&color=blueviolet)
 
