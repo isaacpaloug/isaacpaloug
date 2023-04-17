@@ -19,7 +19,7 @@
 <img align="left" alt="josep | VScode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="josep | Mongodb" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>
 <img align="left" alt="josep | CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-
+<br>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacpaloug&show_icons=true&theme=radical)
 
